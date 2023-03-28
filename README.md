@@ -1,2 +1,2 @@
 # Estudo-do-SQL
- Utilizando o MySQL, fiz alguns projentos para aprender melhor essa linguagem de programação.
+ Utilizando o MySQL, fiz alguns projetos para aprender melhor essa linguagem de programação.
